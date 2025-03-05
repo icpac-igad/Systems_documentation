@@ -60,6 +60,7 @@ If you need to add documentation for a system that already has a folder:
 1. Navigate to the system folder:
    ```
    cd Systems_documentation/existing-system-name
+   open the documentation (.md,.pdf,.docx) using your favorite editor, make changes and push
    ```
 
 
